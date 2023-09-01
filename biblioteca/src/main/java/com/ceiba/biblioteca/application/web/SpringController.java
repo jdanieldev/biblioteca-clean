@@ -2,10 +2,10 @@ package com.ceiba.biblioteca.application.web;
 
 
 import com.ceiba.biblioteca.controlador.PrestamoControlador;
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.input.ConsultarPrestamoInput;
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.input.GenerarPrestamoInput;
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.output.ConsultarPrestamoOutput;
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.output.GenerarPrestamoOutput;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.input.ConsultarPrestamoInput;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.input.GenerarPrestamoInput;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.output.ConsultarPrestamoOutput;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.output.GenerarPrestamoOutput;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

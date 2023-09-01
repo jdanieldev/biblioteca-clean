@@ -1,12 +1,12 @@
 package com.ceiba.biblioteca.controlador;
 
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.Prestamo;
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.TipoUsuario;
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.input.ConsultarPrestamoInput;
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.input.GenerarPrestamoInput;
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.output.ConsultarPrestamoOutput;
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.output.GenerarPrestamoOutput;
-import com.ceiba.biblioteca.converter.nucleo.prestamo.servicio.PrestamoServicio;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.Prestamo;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.TipoUsuario;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.input.ConsultarPrestamoInput;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.input.GenerarPrestamoInput;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.output.ConsultarPrestamoOutput;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.output.GenerarPrestamoOutput;
+import com.ceiba.biblioteca.nucleo.prestamo.servicio.PrestamoServicio;
 
 public class PrestamoControlador {
 

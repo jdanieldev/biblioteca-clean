@@ -1,9 +1,8 @@
-package com.ceiba.biblioteca.converter.nucleo.prestamo.servicio;
+package com.ceiba.biblioteca.nucleo.prestamo.servicio;
 
-import com.ceiba.biblioteca.converter.nucleo.excepcion.BadRequestExcepcion;
-import com.ceiba.biblioteca.converter.nucleo.excepcion.NotFoundExcepcion;
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.Prestamo;
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.TipoUsuario;
+import com.ceiba.biblioteca.nucleo.excepcion.BadRequestExcepcion;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.Prestamo;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.TipoUsuario;
 import com.ceiba.biblioteca.repositorio.sql.PrestamoSqlRepository;
 import com.ceiba.biblioteca.util.Utils;
 

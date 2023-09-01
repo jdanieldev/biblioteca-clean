@@ -1,4 +1,4 @@
-package com.ceiba.biblioteca.converter.nucleo.excepcion;
+package com.ceiba.biblioteca.nucleo.excepcion;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

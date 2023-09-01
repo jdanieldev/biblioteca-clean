@@ -1,6 +1,5 @@
-package com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.input;
+package com.ceiba.biblioteca.nucleo.prestamo.dominio.input;
 
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.TipoUsuario;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 

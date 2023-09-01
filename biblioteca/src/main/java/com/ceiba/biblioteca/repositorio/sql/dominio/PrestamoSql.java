@@ -1,6 +1,6 @@
 package com.ceiba.biblioteca.repositorio.sql.dominio;
 
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.TipoUsuario;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.TipoUsuario;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

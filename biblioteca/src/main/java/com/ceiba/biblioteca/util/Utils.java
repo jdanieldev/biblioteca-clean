@@ -1,6 +1,6 @@
 package com.ceiba.biblioteca.util;
 
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.Prestamo;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.Prestamo;
 import com.ceiba.biblioteca.repositorio.sql.dominio.PrestamoSql;
 
 import java.time.DayOfWeek;

@@ -1,6 +1,6 @@
-package com.ceiba.biblioteca.converter.nucleo.prestamo.dominio;
+package com.ceiba.biblioteca.nucleo.prestamo.dominio;
 
-import com.ceiba.biblioteca.converter.nucleo.excepcion.BadRequestExcepcion;
+import com.ceiba.biblioteca.nucleo.excepcion.BadRequestExcepcion;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

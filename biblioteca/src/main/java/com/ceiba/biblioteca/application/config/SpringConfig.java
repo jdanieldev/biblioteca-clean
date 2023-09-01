@@ -1,7 +1,7 @@
 package com.ceiba.biblioteca.application.config;
 
 import com.ceiba.biblioteca.controlador.PrestamoControlador;
-import com.ceiba.biblioteca.converter.nucleo.prestamo.servicio.PrestamoServicio;
+import com.ceiba.biblioteca.nucleo.prestamo.servicio.PrestamoServicio;
 import com.ceiba.biblioteca.repositorio.sql.PrestamoSqlRepository;
 import com.ceiba.biblioteca.repositorio.sql.adaptador.PrestamoSqlAdaptador;
 import com.ceiba.biblioteca.repositorio.sql.dao.PrestamoSqlDao;

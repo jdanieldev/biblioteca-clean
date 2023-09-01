@@ -1,6 +1,6 @@
 package com.ceiba.biblioteca.converter;
 
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.TipoUsuario;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.TipoUsuario;
 
 import javax.persistence.AttributeConverter;
 import javax.persistence.Converter;

@@ -1,6 +1,6 @@
 package com.ceiba.biblioteca.repositorio.sql.adaptador;
 
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.Prestamo;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.Prestamo;
 import com.ceiba.biblioteca.repositorio.sql.PrestamoSqlRepository;
 import com.ceiba.biblioteca.repositorio.sql.dao.PrestamoSqlDao;
 import com.ceiba.biblioteca.repositorio.sql.dominio.PrestamoSql;

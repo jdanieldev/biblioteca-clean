@@ -1,6 +1,6 @@
 package com.ceiba.biblioteca.repositorio.sql;
 
-import com.ceiba.biblioteca.converter.nucleo.prestamo.dominio.Prestamo;
+import com.ceiba.biblioteca.nucleo.prestamo.dominio.Prestamo;
 
 public interface PrestamoSqlRepository {
 
